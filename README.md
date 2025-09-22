@@ -8,15 +8,15 @@ Feel free to browse the projects.
 # Attribution
 If you want to share/repurpose the code, please use the following citation:
 
-Subhajit Bhar, (2025). data-science-project. https://github.com/SubhajitBhar1/data-science-project
+Subhajit Bhar, (2025). data-science-projects. https://github.com/SubhajitBhar1/data-science-projects
 
 **Bibtex:**
 
 ```bibtex
 @article{bhar2025medium,
-  title={Medium-Blogs-Code},
+  title={data-science-projects},
   author={Subhajit Bhar},
-  howpublished={https://github.com/SubhajitBhar1/data-science-project},
+  howpublished={https://github.com/SubhajitBhar1/data-science-projects},
   year={2025}
 }
 ```
