@@ -1,4 +1,4 @@
-# data-science-project
+# Data Science Projects
 A selection of small Data Science Projects.
 Feel free to browse the projects. 
 
