@@ -5,7 +5,7 @@ Feel free to browse the projects.
 # Table of Contents
 
 
-# Attribution
+# Credit
 If you want to share/repurpose the code, please use the following citation:
 
 Subhajit Bhar, (2025). data-science-projects. https://github.com/SubhajitBhar1/data-science-projects
